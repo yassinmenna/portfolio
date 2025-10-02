@@ -9,7 +9,7 @@ export default function Home() {
       title: "AI Concierge Assistant (Elena) - Litty",
       impact: "↑15% bookings",
       description: "Designed, launched, and scaled AI-powered concierge chat assistant to help customers discover and book venues for their private events.",
-      skills: ["Product Strategy", "AI/ML", "User Research", "Analytics"],
+      skills: ["Product Strategy", "Tech Startup", "AI/ML", "User Research", "Analytics"],
       image: "/elena.jpg"
     },
     {
@@ -18,7 +18,7 @@ export default function Home() {
       impact: "scaled across 540K+ users & 80+ venues",
       description: "Impact for Customers: submit multiple venue inquiries, compare offers, simplify decision-making, and get personalized recommendations.",
       description2: "Impact for Businesses: negotiation power, view competitor offers, optimize pricing to win more bookings.",
-      technologies: ["Product Strategy", "UX Design", "A/B Testing", "User-Centric Design"],
+      technologies: ["Product Strategy", "Tech Startup", "UX Design", "A/B Testing", "User-Centric Design"],
       image: "/venuematchmaker.jpg"
     },
     {
